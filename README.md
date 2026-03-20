@@ -1,9 +1,13 @@
 # Hi, I'm Jose Nelson 👋
 
-Backend developer specialized in Python and REST API development.
+Backend Developer | Python · REST APIs · AI Integration
 
-I design and build backend systems focused on scalability, performance, and clean architecture.  
-I enjoy creating practical software solutions that automate workflows and solve real-world problems.
+I turn ideas into production-ready products.
+Currently a Software Engineering student building real-world applications 
+that combine backend systems with AI — from clinical nutrition tools 
+to developer workflow automation.
+
+Always learning. Always shipping. 
 
 ---
 
